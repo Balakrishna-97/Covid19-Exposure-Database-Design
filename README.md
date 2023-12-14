@@ -1,6 +1,3 @@
-# Covid19-Exposure-Database-Design
-Creating a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals.
-
 # <div align="center">  Relational Database for Improved Patient Care and Reduced Exposure Risk </div>
 ###	The goal of this project is to create a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.
 
