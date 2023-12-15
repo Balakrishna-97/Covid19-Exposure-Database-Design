@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------
 ###	<div align="center">Installing Dependencies   </div> 
 *	MySQL Workbench >= 8.0.
-*	Scripts included in the **[SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL)**.
+*	Scripts included in the **[SQL Files](https://github.com/Balakrishna-97/Covid19-Exposure-Database-Design/tree/main/SQL%20Files)**.
 ###	<div align="center"> Download and Setup  </div> 
 1.	Database Creation
 	*	From MySQL Workbench open the **create_db_hospital.sql** script.
